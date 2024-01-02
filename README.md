@@ -22,7 +22,7 @@ Mini conda
 -> https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html
 Data 
 -> https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/data
--> https://github.com/PiotrDratwa/Writing_quality_projections
+or https://github.com/PiotrDratwa/Writing_quality_projections
 
 HOW TO RUN THE PROGRAM:
 
