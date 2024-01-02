@@ -15,14 +15,14 @@ The data used in the project can be found on the competition website or on our G
 NECESSARY:
 
 Jupyter Lab install 
-	-> https://jupyter.org/install
+-> https://jupyter.org/install
 Anaconda 
-	-> https://www.anaconda.com/download
+-> https://www.anaconda.com/download
 Mini conda 
-	-> https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html
+-> https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html
 Data 
-	-> https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/data
-	-> https://github.com/PiotrDratwa/Writing_quality_projections
+-> https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/data
+-> https://github.com/PiotrDratwa/Writing_quality_projections
 
 HOW TO RUN THE PROGRAM:
 
